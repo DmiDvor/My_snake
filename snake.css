@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+
+
+#can {
+    width: 100%;
+    height: auto;
+    
+}
+
+#canvas {    
+    border: 3px solid gray;
+    margin-top: 120px;
+    background-color: #9da19c;
+    opacity: 0.8;
+}
+
+#but {
+    width: auto;
+}
+
+#button {
+     position: relative;
+     font-family: Ubuntu;
+     background-color:darkcyan;
+     color:aliceblue;
+     border: 2px solid #404040;
+     border-radius: 25px;
+     font-size: 20px;
+     box-shadow: 5px 5px 10px #808080;    
+}
+
+#button, #button:active, #button:focus {
+    outline: none;
+}
+        
